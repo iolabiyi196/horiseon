@@ -1,8 +1,19 @@
-# Code Refactor Starter Code
-Horiseon has developed a starter page for their startup. This page gives a basic explanation into what the startup is all about. Below is the link to the aforementioned page. Feel free to check it out and see for yourself what Horiseon has to offer you.
+# Code Refactor Starter Code for Horieson
 
-<<<<<<< HEAD
+## Purpose
+A webpage that gives a basic introduction to what a startup (Horieson) is all about. Feel free to check it out and see for yourself what Horiseon has planned to offer you in the long run.
 
-![screenshot of the working website](./Develop/assets/images/)
-=======
->>>>>>> 921395362455aa4e32dfaebf7b1d0a0129c27f27
+## Built With
+* HTML
+* CSS
+
+## Mock up of homepage
+![screenshot of the working website](./assets/images/mockup.png)
+
+## Website
+https://iolabiyi196.github.io/horiseon/
+
+## Contribution
+Refactored by Ismahel Olabiyi
+
+### ©️2022 Horieson Inc. 
