@@ -78,14 +78,13 @@ p {
 
 /* the height was changed so the background is as long as the <section> section to the left*/
 
-benefits {
+.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
-    /* height: 941px; */
+    height: 941px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
